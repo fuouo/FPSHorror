@@ -11,4 +11,4 @@ Animations (Feature - Gameobject)
 4) Monster Idle - Monster
 5) Monster Walking - Monster
 6) Monster Gets Killed / Dies (from explosion) - Dead Monster 
-7) Flickering Lights - Flare
+7) Door Opening - door_3

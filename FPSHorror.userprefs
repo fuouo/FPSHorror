@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Character_Monster\Monster.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\readme.txt">
     <Files>
-      <File FileName="Assets\Camcorder.cs" Line="13" Column="18" />
-      <File FileName="Assets\Character_Monster\Monster.cs" Line="34" Column="2" />
+      <File FileName="Assets\Camcorder.cs" Line="42" Column="41" />
+      <File FileName="Assets\Character_Monster\Monster.cs" Line="55" Column="1" />
+      <File FileName="Assets\readme.txt" Line="14" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
